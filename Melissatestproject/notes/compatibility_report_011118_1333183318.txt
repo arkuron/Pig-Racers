@@ -1,0 +1,21 @@
+Converting GML script: ${project_dir}\objects\obj_button\Create_0.gml
+Converted description /// @description README
+
+Converting GML script: ${project_dir}\objects\obj_menu_control\Create_0.gml
+Converted description /// @description README
+
+Converting GML script: ${project_dir}\objects\obj_menu_control\Step_0.gml
+Converted description /// @description KEYBOARD OR GAMEPAD CONTROLS
+
+Converting GML script: ${project_dir}\objects\obj_menu_control\Mouse_56.gml
+Converted description /// @description Mouse activation of buttons
+
+Converting GML script: ${project_dir}\objects\obj_button1\Create_0.gml
+Converted description /// @description README
+
+Converting GML script: ${project_dir}\objects\obj_button2\Create_0.gml
+Converted description /// @description README
+
+Missing audiogroup for sound: 'snd_confirm' - setting to default audio group
+Missing audiogroup for sound: 'snd_choose1' - setting to default audio group
+Added compatibility script 'action/action_message.gml'

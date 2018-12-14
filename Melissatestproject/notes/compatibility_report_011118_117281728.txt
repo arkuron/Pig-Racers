@@ -1,0 +1,55 @@
+Converting GML script: ${project_dir}\scripts\crawl_width\crawl_width.gml
+Converted description /// @description crawl_width(grid, direction, tile_wide, current_x, current_y)/// @param grid
+/// @param  direction
+/// @param  tile_wide
+/// @param  current_x
+/// @param  current_y
+
+Converting GML script: ${project_dir}\scripts\get_cell_x\get_cell_x.gml
+Converted description /// @description get_cell_x(grid_x, grid_y, tile_width)/// @param grid_x
+/// @param  grid_y
+/// @param  tile_width
+
+Converting GML script: ${project_dir}\scripts\get_cell_y\get_cell_y.gml
+Converted description /// @description get_cell_y(grid_x, grid_y, tile_height)/// @param grid_x
+/// @param  grid_y
+/// @param  tile_height
+
+Converting GML script: ${project_dir}\objects\IDG_Controller\Step_0.gml
+Converted builtin - line 31: view_xview[0] = _marker.x - view_wview[0]/2 -> __view_set( e__VW.XView, 0, _marker.x - view_wview[0]/2 )
+Converted builtin - line 45: view_xview[0] -= _camera_speed -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (_camera_speed) )
+Converted builtin - line 49: view_xview[0] += _camera_speed -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (_camera_speed) )
+Converted builtin - line 32: view_yview[0] = _marker.y - view_hview[0]/2 -> __view_set( e__VW.YView, 0, _marker.y - view_hview[0]/2 )
+Converted builtin - line 53: view_yview[0] -= _camera_speed -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (_camera_speed) )
+Converted builtin - line 57: view_yview[0] += _camera_speed -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (_camera_speed) )
+Converted builtin - line 39: view_wview[0] *= _zoom -> __view_set( e__VW.WView, 0, __view_get( e__VW.WView, 0 ) * (_zoom) )
+Converted builtin - line 40: view_hview[0] *= _zoom -> __view_set( e__VW.HView, 0, __view_get( e__VW.HView, 0 ) * (_zoom) )
+Converted builtin - line 31: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 32: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\IDG_Controller\Draw_64.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 6: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+
+Converting GML script: ${project_dir}\objects\IDG_Generator\Step_0.gml
+Converted builtin - line 114: view_xview[0] = _marker.x - view_wview[0]/2 -> __view_set( e__VW.XView, 0, _marker.x - view_wview[0]/2 )
+Converted builtin - line 115: view_yview[0] = _marker.y - view_hview[0]/2 -> __view_set( e__VW.YView, 0, _marker.y - view_hview[0]/2 )
+Converted builtin - line 114: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 115: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\IDG_Marker\Step_0.gml
+Converted builtin - line 20: view_xview[0] = x - view_wview[0]/2 -> __view_set( e__VW.XView, 0, x - view_wview[0]/2 )
+Converted builtin - line 21: view_yview[0] = y - view_hview[0]/2 -> __view_set( e__VW.YView, 0, y - view_hview[0]/2 )
+Converted builtin - line 20: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

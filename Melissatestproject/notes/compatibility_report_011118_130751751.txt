@@ -1,0 +1,134 @@
+Converting GML script: ${project_dir}\scripts\edgefs_init_timer\edgefs_init_timer.gml
+Converted description /// @description edgefs_init_timer();
+
+Converting GML script: ${project_dir}\scripts\edgefs_get_timer\edgefs_get_timer.gml
+Converted description /// @description edgefs_get_timer();
+
+Converting GML script: ${project_dir}\scripts\edgefs_save_date\edgefs_save_date.gml
+Converted description /// @description edgefs_save_date(fname, encrypt);/// @param fname
+/// @param  encrypt
+Converted string - line 24: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 32: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 36: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 46: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_save_time\edgefs_save_time.gml
+Converted description /// @description edgefs_save_time(fname, encrypt);/// @param fname
+/// @param  encrypt
+Converted string - line 24: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 32: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 36: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 52: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_save_timeplayed\edgefs_save_timeplayed.gml
+Converted description /// @description edgefs_save_timeplayed(fname, encrypt);/// @param fname
+/// @param  encrypt
+Converted string - line 22: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 30: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 34: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 47: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_save_screenshot_temp\edgefs_save_screenshot_temp.gml
+Converted description /// @description edgefs_save_screenshot_temp();
+Converted string - line 14: "\efs_data\temp\temp.thumb" -> "\\efs_data\\temp\\temp.thumb"
+
+Converting GML script: ${project_dir}\scripts\edgefs_save_screenshot\edgefs_save_screenshot.gml
+Converted description /// @description edgefs_save_screenshot(fname, use_temp);/// @param fname
+/// @param  use_temp
+Converted string - line 29: "\efs_data\temp\temp.thumb" -> "\\efs_data\\temp\\temp.thumb"
+Converted string - line 31: "\efs_data\temp\temp.thumb" -> "\\efs_data\\temp\\temp.thumb"
+Converted string - line 31: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 31: "_data\" -> "_data\\"
+Converted string - line 33: "\efs_data\temp\temp.thumb" -> "\\efs_data\\temp\\temp.thumb"
+Converted string - line 36: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 36: "_data\" -> "_data\\"
+Converted string - line 40: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 40: "_data\" -> "_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_save_var\edgefs_save_var.gml
+Converted description /// @description edgefs_save_var(variable, key, fname, encrypt);/// @param variable
+/// @param  key
+/// @param  fname
+/// @param  encrypt
+Converted string - line 31: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 39: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 43: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 142: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 145: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 152: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 227: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 227: "_data\" -> "_data\\"
+Converted string - line 251: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_load_date\edgefs_load_date.gml
+Converted description /// @description edgefs_load_date(fname);/// @param fname
+Converted string - line 14: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 22: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 26: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 36: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_load_time\edgefs_load_time.gml
+Converted description /// @description edgefs_load_time(fname);/// @param fname
+Converted string - line 14: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 22: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 26: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 36: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_load_timeplayed\edgefs_load_timeplayed.gml
+Converted description /// @description edgefs_load_timeplayed(fname, set_time);/// @param fname
+/// @param  set_time
+Converted string - line 17: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 25: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 29: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 61: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_load_screenshot\edgefs_load_screenshot.gml
+Converted description /// @description edgefs_load_screenshot(fname);/// @param fname
+Converted string - line 27: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 27: "_data\" -> "_data\\"
+Converted string - line 28: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 28: "_data\" -> "_data\\"
+
+Converting GML script: ${project_dir}\scripts\edgefs_load_var\edgefs_load_var.gml
+Converted description /// @description edgefs_load_var(key, fname);/// @param key
+/// @param  fname
+Converted string - line 19: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 27: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 31: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 120: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 125: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 128: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 170: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 170: "_data\" -> "_data\\"
+Converted string - line 171: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 171: "_data\" -> "_data\\"
+Converted string - line 193: "\efs_data\" -> "\\efs_data\\"
+
+Converting GML script: ${project_dir}\scripts\file_encrypted\file_encrypted.gml
+Converted description /// @description file_encrypted(fname);/// @param fname
+
+Converting GML script: ${project_dir}\scripts\file_text_encrypt\file_text_encrypt.gml
+Converted description /// @description file_text_encrypt(fname);/// @param fname
+
+Converting GML script: ${project_dir}\scripts\file_text_decrypt\file_text_decrypt.gml
+Converted description /// @description file_text_decrypt(fname);/// @param fname
+
+Converting GML script: ${project_dir}\scripts\edgefs_delete\edgefs_delete.gml
+Converted description /// @description edgefs_delete(fname);/// @param fname
+Converted string - line 20: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 21: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 25: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 25: "_data\" -> "_data\\"
+Converted string - line 26: "\efs_data\" -> "\\efs_data\\"
+Converted string - line 26: "_data\" -> "_data\\"
+
+!!! Font Orbitron uses a font (Orbitron) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\obj_timer\Create_0.gml
+Converted description /// @description Execute script: edgefs_init_timer
+
+Converting GML script: ${project_dir}\objects\obj_timer\Step_0.gml
+Converted description /// @description Execute script: edgefs_get_timer
+
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/__init_action.gml'

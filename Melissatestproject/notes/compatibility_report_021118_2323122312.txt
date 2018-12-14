@@ -1,0 +1,184 @@
+Converting GML script: ${project_dir}\scripts\scr_object_collision_detector\scr_object_collision_detector.gml
+Converted description /// @description scr_object_collision_detector(object,direction)/// @param object
+/// @param direction
+
+Converting GML script: ${project_dir}\objects\obj_explorer\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_explorer\Draw_0.gml
+Converted description /// @description draw sprite considerations for invulnerability transparency
+
+Converting GML script: ${project_dir}\objects\obj_item_parent\Create_0.gml
+Converted description /// @description default item variables
+
+Converting GML script: ${project_dir}\objects\obj_item_parent\Draw_0.gml
+Converted description /// @description draw item
+
+Converting GML script: ${project_dir}\objects\obj_coin_gold\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_coin_gold\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_door_key_red\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_door_key_red\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_door_key_blue\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_door_key_blue\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_donut\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_donut\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_backpack_upgrade\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_backpack_upgrade\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_undercover_clothing\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_undercover_clothing\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_uniform_clothing\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_uniform_clothing\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_compact_disc_parent\Other_11.gml
+Converted description /// @description action
+
+Converting GML script: ${project_dir}\objects\obj_compact_disc_parent\Other_10.gml
+Converted description /// @description condition
+
+Converting GML script: ${project_dir}\objects\obj_terrain_parent\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_terrain_parent\Destroy_0.gml
+Converted description /// @description destroy solid and semi solid blocks if present
+
+Converting GML script: ${project_dir}\objects\obj_terrain_parent\Draw_0.gml
+Converted description /// @description tessellate
+
+Converting GML script: ${project_dir}\objects\obj_metal_parent\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_metal_16x16\Create_0.gml
+Converted description /// @description solid designation
+
+Converting GML script: ${project_dir}\objects\obj_metal_32x32\Create_0.gml
+Converted description /// @description solid designation
+
+Converting GML script: ${project_dir}\objects\obj_metal_64x64\Create_0.gml
+Converted description /// @description solid designation
+
+Converting GML script: ${project_dir}\objects\obj_physics_parent\Create_0.gml
+Converted description /// @description depth
+
+Converting GML script: ${project_dir}\objects\obj_physics_parent\Step_0.gml
+Converted description /// @description debug mode visibility switching
+
+Converting GML script: ${project_dir}\objects\obj_interface_parent\Create_0.gml
+Converted description /// @description depth
+
+Converting GML script: ${project_dir}\objects\obj_game_tracker\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_game_tracker\Step_0.gml
+Converted description /// @description codes
+Converted string - line 11: '0001' -> "0001"
+Converted string - line 17: '0002' -> "0002"
+
+Converting GML script: ${project_dir}\objects\obj_inventory_tracker\Create_0.gml
+Converted description /// @description customisable variables
+
+Converting GML script: ${project_dir}\objects\obj_inventory_tracker\Step_0.gml
+Converted description /// @description inventory variable controller
+
+Converting GML script: ${project_dir}\objects\obj_inventory_tracker\Draw_0.gml
+Converted builtin - line 21: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_mechanism_parent\Create_0.gml
+Converted description /// @description depth
+
+Converting GML script: ${project_dir}\objects\obj_room_transfer\Create_0.gml
+Converted description /// @description determine transfer direction
+
+Converting GML script: ${project_dir}\objects\obj_compact_disc_player\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_compact_disc_player\Step_0.gml
+Converted description /// @description mechanism action
+
+Converting GML script: ${project_dir}\objects\obj_door_parent\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_door_parent\Step_0.gml
+Converted description /// @description door ascention controls
+
+Converting GML script: ${project_dir}\objects\obj_door_parent\Draw_0.gml
+Converted description /// @description draw self and hinge
+
+Converting GML script: ${project_dir}\objects\obj_powered_parent\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_powered_parent\Step_0.gml
+Converted description /// @description powered check
+
+Converting GML script: ${project_dir}\objects\obj_power_wire\Step_0.gml
+Converted description /// @description sprite control
+
+Converting GML script: ${project_dir}\objects\obj_laser_detector\Step_0.gml
+Converted description /// @description power if explorer passes laser
+
+Converting GML script: ${project_dir}\objects\obj_monitor\Step_0.gml
+Converted description /// @description text cycling
+
+Converting GML script: ${project_dir}\objects\obj_enemy_parent\Create_0.gml
+Converted description /// @description depth
+
+Converting GML script: ${project_dir}\objects\obj_buzz_saw\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_fire_box\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_fire_box\Step_0.gml
+Converted description /// @description fire blast creation
+
+Converting GML script: ${project_dir}\objects\obj_fire_blast\Create_0.gml
+Converted description /// @description initial variables
+
+Converting GML script: ${project_dir}\objects\obj_fire_blast\Step_0.gml
+Converted description /// @description sprite assignment
+
+Missing audiogroup for sound: 'snd_enemy_collision' - setting to default audio group
+Missing audiogroup for sound: 'snd_inventory_edge_reached' - setting to default audio group
+Missing audiogroup for sound: 'snd_item_collection' - setting to default audio group
+Missing audiogroup for sound: 'snd_item_discarded' - setting to default audio group
+Missing audiogroup for sound: 'snd_item_use' - setting to default audio group
+Missing audiogroup for sound: 'snd_pamgaea' - setting to default audio group
+Missing audiogroup for sound: 'snd_show_your_moves' - setting to default audio group
+Missing audiogroup for sound: 'snd_space_fighter_loop' - setting to default audio group
+Missing audiogroup for sound: 'snd_cut_and_run' - setting to default audio group
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_inherited.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'd3d/d3d_set_fog.gml'
+Added compatibility script 'sound/sound_isplaying.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Updated compatibility script '__global_object_depths.gml'
